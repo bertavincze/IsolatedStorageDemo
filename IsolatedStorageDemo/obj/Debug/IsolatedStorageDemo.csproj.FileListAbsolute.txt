@@ -1,0 +1,7 @@
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe.config
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.exe
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\bin\Debug\IsolatedStorageDemo.pdb
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csprojAssemblyReference.cache
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.csproj.CoreCompileInputs.cache
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.exe
+C:\Users\Tulajdonos\Desktop\Codecool\IsolatedStorageDemo\IsolatedStorageDemo\IsolatedStorageDemo\obj\Debug\IsolatedStorageDemo.pdb
